@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 2.8)
+project(Triangulate)
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+
+set(CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
+
+#set(CMAKE_BUILD_TYPE "Release")
+
+find_package(Eigen3 REQUIRED)
+
+include_directories(
+        ${EIGEN3_INCLUDE_DIR}
+)
+
+add_subdirectory(utils)
+
+add_executable(estimate_depth triangulate.cpp)
+#target_link_libraries(estimate_depth  ${Sophus_LIBRARIES})

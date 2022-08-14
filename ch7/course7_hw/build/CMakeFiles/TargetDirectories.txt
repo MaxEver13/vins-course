@@ -1,0 +1,5 @@
+/home/max/Documents/ch7/course7_hw/build/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch7/course7_hw/build/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch7/course7_hw/build/CMakeFiles/estimate_depth.dir
+/home/max/Documents/ch7/course7_hw/build/utils/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch7/course7_hw/build/utils/CMakeFiles/rebuild_cache.dir

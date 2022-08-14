@@ -1,0 +1,14 @@
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/frontend/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/frontend/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/frontend/CMakeFiles/slam_course_frontend.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/backend/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/backend/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/backend/CMakeFiles/slam_course_backend.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/utils/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/utils/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/app/CMakeFiles/rebuild_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/app/CMakeFiles/testCurveFitting.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/app/CMakeFiles/edit_cache.dir
+/home/max/Documents/ch6/build-BA_schur-Desktop-Default/app/CMakeFiles/testMonoBA.dir

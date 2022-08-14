@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/max/Documents/ch3/CurveFitting_LM/backend/problem.cc
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+glog/logging.h
+-
+backend/problem.h
+/home/max/Documents/ch3/CurveFitting_LM/backend/backend/problem.h
+utils/tic_toc.h
+/home/max/Documents/ch3/CurveFitting_LM/backend/utils/tic_toc.h
+omp.h
+-
+
